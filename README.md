@@ -1,4 +1,4 @@
 gaia-shell
 ==========
 
-Shell for Gaia Online for performing certain actions dynamically.
+Shell for performing certain actions on Gaia Online dynamically.
